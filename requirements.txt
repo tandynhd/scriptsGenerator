@@ -1,6 +1,5 @@
--f https://download.pytorch.org/whl/torch_stable.html
 Flask
 gunicorn==20.1.0
 celery==5.0.5
-torch==1.8.1+cpu 
-torchvision==0.9.1+cpu
+torch==1.11.0+cpu
+torchvision==0.12.0+cpu
