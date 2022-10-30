@@ -1,4 +1,4 @@
-#Script Generator Using RNN
+# Script Generator Using RNN
 
 Web Speech API to convert text to voice along with an interactive front end
 
